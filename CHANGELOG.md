@@ -23,6 +23,10 @@
   [Ornithologist Coder](https://github.com/ornithocoder)
   [#2283](https://github.com/realm/SwiftLint/issues/2283)
 
+* Add `private_only` configuration to `prefixed_toplevel_constant` rule  
+  [Keith Smiley](https://github.com/keith)
+  [#2315](https://github.com/realm/SwiftLint/pull/2315)
+
 #### Bug Fixes
 
 * Fix an issue with `control_statement` where commas in clauses prevented the
