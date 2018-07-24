@@ -23,6 +23,10 @@
   [Ornithologist Coder](https://github.com/ornithocoder)
   [#2283](https://github.com/realm/SwiftLint/issues/2283)
 
+* Add support for globs in `excluded` file paths  
+  [Keith Smiley](https://github.com/keith)
+  [#2316](https://github.com/realm/SwiftLint/pull/2316)
+
 #### Bug Fixes
 
 * Fix an issue with `control_statement` where commas in clauses prevented the
